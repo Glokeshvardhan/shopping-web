@@ -1,0 +1,600 @@
+*{
+    box-sizing: border-box;
+}
+.flexcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: center;
+}
+.once{
+    width: 100%;
+    height: auto;
+    background-color: rgba(219, 219, 219, 0.915);
+    color: black;
+}
+.first{
+    margin-right: 100px;
+}
+.first i{
+    padding: 10px;
+    margin-left: 20px;
+    font-style:Bold;
+    font-size: 10px;
+    color: rgb(42, 41, 41);
+    font-size-adjust: 20px;
+}
+.first b{
+    font-size: 10px;
+    color: rgb(43, 42, 42);
+}
+.first option{
+    border-color: white;
+    background-color: white;
+    color: black;
+}
+.second select{
+    border: none;
+    background-color:  rgba(219, 219, 219, 0.915);
+    margin-right: 20px;
+}
+.three{
+    margin-left: 100px;
+    font margin-left: 20px;
+}
+.three p{
+    margin-left: 20px;
+}
+.four{
+    margin-left: 100px;
+}
+.four i{
+    margin-right: 10px;
+}
+.twos{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.twos h1{
+    font-size: xx-large;
+}
+.qw{
+    margin-left: 250px;
+    margin-right: 300px;
+}
+.qw b{
+    margin-left: 30px;
+}
+.tres{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    background-image: url("https://img.freepik.com/premium-photo/dynamic-black-background-texture_780387-424.jpg");
+   color: white;
+}
+.tres h1{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+.bfy{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+.aq{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+}
+.ds{
+    width: 100%;
+    height: auto;
+}
+.ds h1{
+    text-shadow: 1px 1px black;
+}
+.ds:hover h1{
+    text-shadow: 4px 2px white ;
+}
+.tr{
+    width: 33.3%;
+    height: 450px;
+    background-image: url("https://images.faverie.com/cb:Twin~42e91/w:auto/h:auto/q:mauto/f:best/id:471b169ebb53e432034b119408aafec2/https://www.faverie.com/woman-blow-hair-smile-white-blouse.jpg");
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: cover;
+}
+.tr h1{
+    text-align: center;
+    margin-top: 200px;
+    color: black;
+    font-size: 50px;
+}
+.tr button{
+    width: 160px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    align-items: center;
+    margin-left: 180px;
+    margin-top: 70px;
+    border: none;
+    font-size:medium;
+}
+.tr:hover button{
+    background-color: #f56b3d;
+    color: white;
+}
+.ti{
+    width: 33.3%;
+    height: 450px;
+    background-image: url("https://exotiqenachruhl.in/wp-content/uploads/2020/12/home1-banner-carousels-2.jpg");
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: cover;
+}
+.ti h1{
+    text-align: center;
+    margin-top: 200px;
+    color:black;
+    font-size: 50px;
+}
+.ti button{
+    width: 160px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    align-items: center;
+    margin-left: 180px;
+    margin-top: 70px;
+    border: none;
+    font-size:medium;
+}
+.ti:hover button{
+    background-color: #f56b3d;
+    color: white;
+}
+.to{
+    width: 33.3%;
+    height: 450px;
+    background-image: url("https://img1.wsimg.com/isteam/ip/4aa51eaf-3e5e-4b64-8a8d-6c58384f049e/toa-heftiba-1128036-unsplash.jpg/:/cr=t:38.83%25,l:0%25,w:100%25,h:33.32%25/rs=w:600,h:300,cg:true");
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: cover;
+}
+.to h1{
+    text-align: center;
+    margin-top: 200px;
+    color: black;
+    font-size: 50px;
+}
+.to button{
+    width: 160px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    align-items: center;
+    margin-left: 180px;
+    margin-top: 70px;
+    border: none;
+    font-size:medium;
+}
+.to:hover button{
+    background-color: #f56b3d;
+    color: white;
+}
+.qwe{
+    margin-top: 10px;
+}
+.qwe div{
+    margin-left: 80px;
+    margin-right: 30px;
+}
+.zx p{
+    margin-top: 30px;
+}
+.vd{
+    width: 60%;
+    height: 2px;
+    background-color: rgba(209, 209, 209, 0.716);
+    margin-left: 20%;
+    margin-top: 20px;
+}
+.fds{
+    margin-top: 140px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+.fds p{
+    color: rgb(0, 0, 0);
+}
+.fds h6{
+    font-size: small;
+    color: rgb(86, 86, 86);
+}
+.fds h1{
+    font-size: xx-large;
+    text-align: center;
+}
+.uy{
+    width: 100%;
+    height: auto;
+}
+.re{
+    height:500px;
+    width: 30%;
+    background-color: rgb(246, 193, 128);
+    color: rgb(255, 252, 252);
+}
+.re img{
+    width: 60%;
+    height: 500px;
+    animation-duration: 2s;
+}
+.re:hover img{
+    transform: translate(15px);
+}
+.re h1{
+    font-size: 30px;
+    margin-top: -300px;
+    margin-left: 250px;
+}
+.re button{
+    width: 100px;
+    height: 50px;
+    border: none;
+    margin-left: 300px;
+    border-radius: 1rem;
+    box-shadow:1px 1px 1px rgb(180, 74, 47);
+}
+.re:hover button{
+    background-color: black;
+    color: white;
+}
+.vcx{
+    width: 50%;
+    height: 500px;
+    background-color: rgb(219, 218, 218);
+    margin-left: 20px;
+}
+.vcx img{
+    width: 60%;
+    height: 500px;
+    animation-duration: 2s;
+    margin-left: 40%;
+}
+.vcx:hover img{
+    transform: translate(15px);
+}
+.vcx h1{
+    font-size: 30px;
+    margin-top: -300px;
+    margin-left: 50px;
+}
+.vcx button{
+    width: 100px;
+    height: 50px;
+    border: none;
+    margin-left: 120px;
+    border-radius: 1rem;
+    box-shadow:1px 1px 1px rgb(180, 74, 47);
+}
+.vcx:hover button{
+    background-color: black;
+    color: white;
+}
+.gfd{
+    width: 100px;
+    height: 100px;
+    background-color:  #f56b3d;
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+    margin-left: 84%;
+}
+.gfd h2{
+    padding: 10px;
+}
+.hg{
+    width: 100%;
+    height: auto;
+}
+.mn{
+    width: 50%;
+    height: 500px;
+    background-color: rgb(210, 210, 199);
+    margin-right: 20px;
+}
+.mn img{
+    width: 40%;
+    height: 500px;
+    animation-duration: 2s;
+    margin-left: 56%;
+}
+.mn:hover img{
+    transform: translate(15px);
+}
+.mn h1{
+    font-size: 30px;
+    margin-top: -300px;
+    margin-left: 50px;
+}
+.mn button{
+    width: 100px;
+    height: 50px;
+    border: none;
+    margin-left: 120px;
+    border-radius: 1rem;
+    box-shadow:1px 1px 1px rgb(180, 74, 47);
+}
+.mn:hover button{
+    background-color: black;
+    color: white;
+}
+.mnb{
+    height:500px;
+    width: 30%;
+    background-color: rgb(246, 193, 128);
+    color: rgb(255, 252, 252);
+}
+.mnb img{
+    width: 85%;
+    height: 500px;
+    animation-duration: 2s;
+}
+.mnb:hover img{
+    transform: translate(15px);
+}
+.mnb h1{
+    font-size: 30px;
+    margin-top: -300px;
+    margin-left: 250px;
+}
+.mnb button{
+    width: 100px;
+    height: 50px;
+    border: none;
+    margin-left: 300px;
+    border-radius: 1rem;
+    box-shadow:1px 1px 1px rgb(180, 74, 47);
+}
+.mnb:hover button{
+    background-color: black;
+    color: white;
+}
+.kj{
+    margin-top: 50px;
+}
+.jh b{
+    margin-left: 40px;
+    margin-bottom: 45px;
+}
+.jh p{
+   color: #f56b3d;
+   margin-bottom: 60px;
+}
+.nb{
+    width: 20%;
+    height: 370px;
+    background-color: rgba(238, 235, 235, 0.716);
+    margin-left: 30px;
+    padding-bottom: 70px;
+}
+.nb input{
+    width: 50px;
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    text-align: center;
+}
+.nb img{
+    width: 100%;
+    height: 310px;
+    padding-bottom: 40px;
+    margin-bottom: 30px;
+
+}
+.nb p,h1{
+    margin-left: 40px;
+    font-size: large; 
+    text-align: left;
+}
+.nbii s{
+    margin-right: -40px;
+    margin-left: 40px;
+}
+.nbi p,h1{
+    margin-left: 40px;
+    font-size: large; 
+}
+.nbi s{
+     margin-right: -40px;
+     margin-left: 40px;
+}
+
+.nbi img{
+    padding-top: 80px;
+    width: 90%;
+    height: 440px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+} 
+.nbii{
+    width: 20%;
+    height: 370px;
+    background-color: rgba(238, 238, 238, 0.773);
+    margin-left: 30px;
+    padding-bottom: 70px;
+}
+.nbii input{
+    width: 50px;
+    margin-top: 20px;
+    background-color:black;
+    color: rgb(255, 255, 255);
+    border: none;
+    text-align: center;
+}
+.nbii img{
+    width: 100%;
+    height: 310px;
+    padding-bottom: 40px;
+    margin-bottom: 30px;
+} 
+.nbii p,h1,b{
+    margin-left: 40px;
+    font-size: large; 
+    text-align: left;
+}
+.gfds{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+.gfds h4{
+   margin-top: 8%;
+}
+.gfds div{
+    width: 150px;
+    height: 2px;
+    background-color: black;
+    color: black;
+    margin-left: 45%;
+}
+.bvc{
+    width: 100%;
+    height: 600px;
+    background-image: url("shot.png");
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: cover;
+}
+.bvc button{
+    width: 200px;
+    height: 63px;
+    background-color: white;
+    color: black;
+    margin-left: 55%;
+    margin-top: 405px;
+    border: none;
+    box-shadow: 0.5px 0.5px 1px 1px rgb(0, 0, 0);
+}
+.bvc:hover button{
+    background-color: #ff8b64;
+    color:black;
+    box-shadow: 0.5px 0.5px 1px 1px rgb(0, 0, 0);
+}
+.uyt{
+    width: 100%;
+    height: 600px;
+    background-image: url("img.png");
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: cover;
+    margin-top: 30px;
+}
+.oiu{
+    width: 100%;
+    height:650px;
+    background-color: rgba(244, 240, 240, 0.882);
+    color: black;
+    text-align: center;
+    padding: 90px;
+}
+.oiu h1{
+    text-align: center;
+    font-size: xx-large;
+}
+.oiu p{
+    font-size: medium;
+    color: rgba(71, 71, 71, 0.845);
+}
+.lkji img{
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.ngf img{
+    width: 120px;
+    height: 60px;
+    margin-left: 60px;
+    margin-top: 80px;
+    
+}
+.last{
+    width: 100%;
+    height: 600px;
+    background-image: url("https://media.istockphoto.com/id/1367578805/vector/black-background-dotted-dark-texture-elegant-wallpaper-with-soft-shadow-carbon-cover-design.jpg?s=612x612&w=0&k=20&c=4JQLvcgQTKkhyzmjuOuuAKxt7-zDZBc-jFPHn3clRqA=");
+    background-repeat: no-repeat;
+    background-position: 1px;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding-top: 60px;
+}
+.iop h2{
+    font-size: 30px;
+}
+.okn input{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(79, 79, 79);
+    color: white;
+    border: none;
+    padding: 20px;
+    font-size:15px;
+}
+.okn button{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(131, 130, 130);
+    color: white;
+    border: none;
+    margin-left: 30px;
+    font-size:15px;
+}
+.bfe h1{
+    font-size: 40px;
+}
+.bfe i{
+    margin-right: 10px;
+}
+.jyt{
+    width: 150px;
+    height: 100px;
+    text-align: left;
+    margin-left: 90px;
+}
+.jyt p{
+    color: rgb(157, 157, 157);
+}
+.vdj{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(175, 175, 175);
+    margin-top:180px ;
+    
+}
+.lae{
+    padding: 10px;
+}
+.jau{
+    margin-left: 400px;
+}
+.jau img{
+    margin-left: 10px;
+}
+
